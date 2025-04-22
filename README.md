@@ -34,6 +34,8 @@ este sistema é voltado para uma academia pequena , para realizar :
  o funcionario entra pelo uso de cpf 
 
 ### Pagina inicial
+lista dos alunos cpf
+cadrastro dos alunos 
 
 
 
